@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/My-doctor-padi/static/css/main.1e1af7d8.css",
+    "main.js": "/My-doctor-padi/static/js/main.69ffef9b.js",
+    "static/media/google-map.jpg": "/My-doctor-padi/static/media/google-map.420c3a05611a69360df0.jpg",
+    "static/media/monitor-disp.jpg": "/My-doctor-padi/static/media/monitor-disp.497f191445eef22387fa.jpg",
+    "static/media/F- doc-with-2-others.jpg": "/My-doctor-padi/static/media/F- doc-with-2-others.a4725026a56a4e38216d.jpg",
+    "static/media/2-doctors.jpg": "/My-doctor-padi/static/media/2-doctors.630d20aa7cc36fb785a2.jpg",
+    "static/media/a-happy-fem-doc.jpg": "/My-doctor-padi/static/media/a-happy-fem-doc.a8cb6ff061839e35735b.jpg",
+    "static/media/a-dr-with-pen-bk.jpg": "/My-doctor-padi/static/media/a-dr-with-pen-bk.e9eaa9c21843f2ab2233.jpg",
+    "static/media/live vd call.jpg": "/My-doctor-padi/static/media/live vd call.78334d2c591bebb9876d.jpg",
+    "static/media/bmi.jpg": "/My-doctor-padi/static/media/bmi.6417884cb0a36d788234.jpg",
+    "static/media/blood-glucose-checker.jpg": "/My-doctor-padi/static/media/blood-glucose-checker.3738db5091fd918a0420.jpg",
+    "static/media/young-man-check.jpg": "/My-doctor-padi/static/media/young-man-check.504b4b6c5c9f6f49e2a0.jpg",
+    "static/media/a-lady-browsing.jpg": "/My-doctor-padi/static/media/a-lady-browsing.b9013a3fe4e5b6aefe56.jpg",
+    "static/media/myDoctorPadi-w_b.jpg": "/My-doctor-padi/static/media/myDoctorPadi-w_b.38dd306a37ac7cd70f02.jpg",
+    "static/media/hand-checker.jpg": "/My-doctor-padi/static/media/hand-checker.aa25318fed1f4cd411c6.jpg",
+    "static/media/hamburger-icon.png": "/My-doctor-padi/static/media/hamburger-icon.d3090a0bfa247899fa6f.png",
+    "index.html": "/My-doctor-padi/index.html",
+    "main.1e1af7d8.css.map": "/My-doctor-padi/static/css/main.1e1af7d8.css.map",
+    "main.69ffef9b.js.map": "/My-doctor-padi/static/js/main.69ffef9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e1af7d8.css",
+    "static/js/main.69ffef9b.js"
+  ]
+}
